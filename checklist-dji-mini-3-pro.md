@@ -5,7 +5,7 @@
 ### Packing
 
  - [ ] Charge all batteries.
- - [ ] Make sure there is enough space in the SD card.
+ - [ ] Make sure SD card is formatted properly and there is enough space.
  - [ ] Pack spare propellers, screws and the screwdriver.
  - [ ] Confirm travel regulations (e.g. battery rules checked / hand luggage on fligts).
  - [ ] Check the drone regulations of the destination country. Check if they offer an interactive map of restricted air spaces. Register the flights or request permits if necessary.
@@ -19,7 +19,7 @@
  - [ ] No strong electromagnetic interference sources (mobile/radio towers, electrical wires, or metallic objects) nearby.
 
 ### Hardware:
- - [ ] SD card installed, correctly formatted, and has free space.
+ - [ ] SD card installed and has free space.
  - [ ] Gimbal cover removed and gimbal moves freely.
  - [ ] Battery fully charged and securely inserted.
  - [ ] Propellers correctly installed with propeller screws present.
