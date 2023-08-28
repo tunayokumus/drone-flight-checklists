@@ -25,9 +25,9 @@
  - [ ] Home point recorded and drone in GPS mode with enough satellites.
  - [ ] Compass calibrated.
  - [ ] Confirm the fail-safe settings.
-   1. RTH
-   2. Hover
-   3. ?
+   1- RTH
+   2- Hover
+   3- ?
  - [ ] Adjusted the flight mode and obstacle avoidance settings based on the flight plan.
    - [ ] Obstacle avoidance: Stop, Bypass, Off ?
    - [ ] Sideways flight enabled/disabled?
