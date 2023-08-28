@@ -1,8 +1,8 @@
-# Pre-flight checklist for drones
+# Flight checklist for DJI Mini 3 Pro
 
 ## Weather & Environment:
  - [ ] No rain forecasted.
- - [ ] Wind speed under Beaufort 4 (29 km/h).
+ - [ ] Wind speed is not more than Beaufort 4 (29 km/h). No strong gusts.
  - [ ] Temperature within drone's operational limits.
  - [ ] KP index for magnetic storms below 5.
  - [ ] Flight route avoids No Fly Zones.
@@ -13,7 +13,7 @@
  - [ ] Gimbal cover removed and gimbal moves freely.
  - [ ] Battery fully charged and securely inserted.
  - [ ] Propellers correctly installed with propeller screws present.
- - [ ] Drone positioned on a level surface (Take Off Pad).
+ - [ ] Drone positioned on a level surface.
  - [ ] All vision and infrared sensors are clean.
 
 ## Software & Control:
@@ -22,11 +22,25 @@
  - [ ] Device connected to controller and synced with the drone.
  - [ ] Firmware updates checked and installed if required.
  - [ ] All error messages attended to.
- - [ ] Home point recorded and drone in GPS mode.
+ - [ ] Home point recorded and drone in GPS mode with enough satellites.
+ - [ ] Compass calibrated.
+ - [ ] Confirm the fail-safe settings.
+   - RTH
+   - Hover
+   - ?
+ - [ ] Adjusted the flight mode and obstacle avoidance settings based on the flight plan.
+   - Obstacle avoidance: Stop, Bypass, Off ?
+   - Sideways flight enabled/disabled?
+ - [ ] Check video modes and settings
+    - Resolution for all the video modes ?
+    - FPS ?
+    - ?
 
 ## Pre-Takeoff Procedures:
  - [ ] Adjusted the Return-To-Home altitude based on surroundings.
- - [ ] No people within or close to the flight area.
+   - Set RTH return altitude high enough to fly over the highest objects you plant to fly over.
+   - On high winds set the RTH altitude lower so it can RTH at lower speeds.
+ - [ ] Take-off & immediate flight area free from obstacles and people
  - [ ] Hover to check for abnormalities before full flight.
 
 # Post-flight checklist for drones
