@@ -16,7 +16,7 @@
  - [ ] Temperature within drone's operational limits.
  - [ ] KP index for magnetic storms below 5.
  - [ ] Flight route avoids No Fly Zones.
- - [ ] No mobile/radio towers, electrical wires, or metallic objects nearby.
+ - [ ] No strong electromagnetic interference sources (mobile/radio towers, electrical wires, or metallic objects) nearby.
 
 ### Hardware:
  - [ ] SD card installed, correctly formatted, and has free space.
