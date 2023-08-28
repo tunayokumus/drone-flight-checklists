@@ -35,9 +35,9 @@
  - [ ] Home point recorded and drone in GPS mode with enough satellites (min 11).
  - [ ] Compass calibrated.
  - [ ] Confirm the fail-safe settings.
-    1. RTH
-    2. Hover
-    3. Descend
+    1- RTH
+    2- Hover
+    3- Descend
  - [ ] Adjusted the flight mode and obstacle avoidance settings based on the flight plan.
    - [ ] Obstacle avoidance: Stop, Bypass, Off ?
    - [ ] Sideways flight enabled/disabled?
@@ -48,8 +48,8 @@
 
 ### Pre-Takeoff Procedures:
  - [ ] Adjusted the Return-To-Home altitude based on surroundings.
-   1. Set RTH return altitude high enough to fly over the highest objects you plant to fly over.
-   2. On high winds set the RTH altitude lower so it can RTH at lower speeds.
+   1- Set RTH return altitude high enough to fly over the highest objects you plant to fly over.
+   2- On high winds set the RTH altitude lower so it can RTH at lower speeds.
  - [ ] Take-off & immediate flight area free from obstacles and people
  - [ ] Hover to check for abnormalities before full flight.
  - [ ] Don't forget to record!
