@@ -29,12 +29,12 @@
    - Hover
    - ?
  - [ ] Adjusted the flight mode and obstacle avoidance settings based on the flight plan.
-   - Obstacle avoidance: Stop, Bypass, Off ?
-   - Sideways flight enabled/disabled?
+   - [ ] Obstacle avoidance: Stop, Bypass, Off ?
+   - [ ] Sideways flight enabled/disabled?
  - [ ] Check video modes and settings
-    - Resolution for all the video modes ?
-    - FPS ?
-    - ?
+    - [ ] Resolution for all the video modes ?
+    - [ ] FPS ?
+    - [ ] ?
 
 ## Pre-Takeoff Procedures:
  - [ ] Adjusted the Return-To-Home altitude based on surroundings.
